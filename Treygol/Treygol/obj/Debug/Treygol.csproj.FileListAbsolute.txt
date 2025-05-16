@@ -1,0 +1,10 @@
+C:\Users\zhura\source\repos\Treygol\Treygol\bin\Debug\Treygol.exe.config
+C:\Users\zhura\source\repos\Treygol\Treygol\bin\Debug\Treygol.exe
+C:\Users\zhura\source\repos\Treygol\Treygol\bin\Debug\Treygol.pdb
+C:\Users\zhura\source\repos\Treygol\Treygol\obj\Debug\Treygol.csproj.AssemblyReference.cache
+C:\Users\zhura\source\repos\Treygol\Treygol\obj\Debug\Treygol.Form1.resources
+C:\Users\zhura\source\repos\Treygol\Treygol\obj\Debug\Treygol.Properties.Resources.resources
+C:\Users\zhura\source\repos\Treygol\Treygol\obj\Debug\Treygol.csproj.GenerateResource.cache
+C:\Users\zhura\source\repos\Treygol\Treygol\obj\Debug\Treygol.csproj.CoreCompileInputs.cache
+C:\Users\zhura\source\repos\Treygol\Treygol\obj\Debug\Treygol.exe
+C:\Users\zhura\source\repos\Treygol\Treygol\obj\Debug\Treygol.pdb
